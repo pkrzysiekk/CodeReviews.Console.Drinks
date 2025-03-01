@@ -1,4 +1,5 @@
 ﻿
+
 namespace DrinksInfo.Models
 {
     internal interface IViewAsync
